@@ -57,3 +57,9 @@ Status da Motocicleta	Cor Indicada no LED	Descrição
 Esta solução foi desenvolvida como um projeto acadêmico, aplicando conceitos de IoT (Internet das Coisas) para resolver problemas reais da indústria, proporcionando controle, agilidade e eficiência no gerenciamento de frotas de motocicletas.
 
 ### 📄 Projeto disponível para demonstração e customização conforme necessidade do cliente.
+
+## 👥 Integrantes
+
+- Diego Bassalo RM 558710 2TDSPG (Paulista)
+- Lucas  RM 558506 2TDSR (Aclimação)
+- Pedro Henrique Jorge De Paula RM 558833 2TDSPJ (Paulista)
